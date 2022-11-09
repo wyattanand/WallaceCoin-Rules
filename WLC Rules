@@ -1,0 +1,9 @@
+1. Distribution of Wealth
+   * If one person receives 5 rewards in a row, then 50 percent of the reward is distributed to the next miner who obtains the same block
+       - If the next miner also has won 5 in a row beforehand, they would not receive the 50 percent and the process would continue
+2. Publicity
+    * If a miner posts on any social media platform about WLC as well as a link to their public address, they will receive some minted WLC.
+    
+3. Mining beyond reward
+    * If a person mines a block with more zeroes than the reward block, they will receive a multiplier on the reward that is one plus the number of extra zeroes they found.
+    
